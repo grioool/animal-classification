@@ -1,0 +1,41 @@
+filename,top1_pred,top1_class,top1_prob,top2_class,top2_prob
+k4 (71).jpg,elephants,elephants,0.5208,bears,0.4792
+k4 (72).jpeg,bears,bears,0.6089,elephants,0.3911
+k4 (72).jpg,bears,bears,0.5374,elephants,0.4626
+k4 (73).jpeg,bears,bears,0.5942,elephants,0.4058
+k4 (73).jpg,bears,bears,0.5374,elephants,0.4626
+k4 (74).jpeg,bears,bears,0.5997,elephants,0.4003
+k4 (74).jpg,bears,bears,0.6135,elephants,0.3865
+k4 (75).jpeg,bears,bears,0.5346,elephants,0.4654
+k4 (75).jpg,elephants,elephants,0.5099,bears,0.4901
+k4 (76).jpeg,elephants,elephants,0.5267,bears,0.4733
+k4 (76).jpg,bears,bears,0.6692,elephants,0.3308
+k4 (77).jpeg,bears,bears,0.6452,elephants,0.3548
+k4 (77).jpg,elephants,elephants,0.5353,bears,0.4647
+k4 (78).jpeg,bears,bears,0.5826,elephants,0.4174
+k4 (78).jpg,bears,bears,0.6214,elephants,0.3786
+k4 (79).jpeg,bears,bears,0.6976,elephants,0.3024
+k4 (79).jpg,bears,bears,0.5742,elephants,0.4258
+k4 (80).jpeg,bears,bears,0.7145,elephants,0.2855
+k4 (80).jpg,bears,bears,0.6789,elephants,0.3211
+k4 (81).jpeg,elephants,elephants,0.6031,bears,0.3969
+images (42).jpeg,elephants,elephants,0.5982,bears,0.4018
+images (43).jpeg,bears,bears,0.6567,elephants,0.3433
+images (44).jpeg,elephants,elephants,0.524,bears,0.476
+images (45).jpeg,elephants,elephants,0.5317,bears,0.4683
+lionesses_644822__340.jpg,bears,bears,0.6045,elephants,0.3955
+mala_mala_200064__340.jpg,bears,bears,0.5119,elephants,0.4881
+namibia_1057544__340.jpg,elephants,elephants,0.6242,bears,0.3758
+nature_3306013__340.jpg,elephants,elephants,0.5162,bears,0.4838
+pexels_photo_1054672.jpeg,bears,bears,0.5554,elephants,0.4446
+pexels_photo_1623221.jpeg,elephants,elephants,0.5045,bears,0.4955
+pexels_photo_2193077.jpeg,bears,bears,0.587,elephants,0.413
+pexels_photo_2278198.jpeg,bears,bears,0.5185,elephants,0.4815
+pexels_photo_247431.jpeg,bears,bears,0.6223,elephants,0.3777
+pexels_photo_469675.jpeg,elephants,elephants,0.5355,bears,0.4645
+pexels_photo_631317.jpeg,elephants,elephants,0.55,bears,0.45
+pexels_photo_667205.jpeg,elephants,elephants,0.6143,bears,0.3857
+pexels_photo_803845.jpeg,bears,bears,0.5202,elephants,0.4798
+pexels_photo_861321.jpeg,bears,bears,0.5404,elephants,0.4596
+photo_1543242010_07563b3d2a2c.jpeg,elephants,elephants,0.5235,bears,0.4765
+photo_1543838215_403d7bf6e149.jpeg,bears,bears,0.6687,elephants,0.3313
